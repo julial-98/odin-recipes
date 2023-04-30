@@ -1,0 +1,17 @@
+
+* {
+    background-color:rgb(204, 194, 161)
+}
+
+.title {
+    color: rgb(107, 26, 43);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+
